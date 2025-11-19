@@ -1,5 +1,5 @@
 # Hey👋, I'm abyss!
-Hey👋, I'm wndkx!. I am just a guy and a certified silly!
+Hey👋, I'm abyss!. I am just a guy and a certified silly!
 
 # Projects
 ## [TikTokMassReporter](https://github.com/mrrabyss/TikTokMassReporter)
