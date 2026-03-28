@@ -2,6 +2,8 @@
 Hey👋, I'm abyss!. I am a programmer
 
 # Projects
+## [TikTokMassReporter](https://github.com/mrrabyss/TikTokMassReporter/)
+A tool that allows to take down inappropriate content on TikTok
 ## [DiscordInfiniteTyper](https://github.com/mrrabyss/DiscordInfiniteTyper)
 Makes your status in your Discord GC as typing
 ## [CordRPC](https://github.com/mrrabyss/CordRPC)
