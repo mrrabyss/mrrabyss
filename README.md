@@ -1,6 +1,11 @@
-# Hey👋, I'm abyss!
-Hey👋, I'm abyss!. I am a programmer
+# Hey👋, I'm abyss
+
+a programmer.
+
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=mrrabyss&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrabyss&layout=compact)
+
 # Projects
 ## [TikTokMassReporter](https://github.com/mrrabyss/TikTokMassReporter/)
 A tool that allows to take down inappropriate content on TikTok
