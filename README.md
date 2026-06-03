@@ -11,6 +11,8 @@ a guy who loves coding.
 # Projects
 ## [SimpleMacRestore](https://github.com/mrrabyss/SimpleMacRestore/)
 A tool that restores Apple Silicon macs on Linux
+## [MSActiverse](https://github.com/mrrabyss/MSActiverse/)
+Lightweight Windows and MS Office activator
 ## [ipswtool](https://github.com/mrrabyss/ipswtool)
 Tool for downloading IPSW files as fast as the speed of light
 ## [apple-music-library-fetcher](https://github.com/mrrabyss/apple-music-library-fetcher)
