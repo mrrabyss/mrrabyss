@@ -13,6 +13,10 @@ a guy who loves coding.
 A tool that restores Apple Silicon macs on Linux
 ## [MSActiverse](https://github.com/mrrabyss/MSActiverse/)
 Lightweight Windows and MS Office activator
+## [Torium](https://github.com/mrrabyss/Torium/)
+Lightweight Firefox extension for enabling/disabling Tor proxy connection
+## [PowershellObfuscator](https://github.com/mrrabyss/PowershellObfuscator)
+A simple python script for turning a readable powershell script into obfuscated mess
 ## [ipswtool](https://github.com/mrrabyss/ipswtool)
 Tool for downloading IPSW files as fast as the speed of light
 ## [apple-music-library-fetcher](https://github.com/mrrabyss/apple-music-library-fetcher)
